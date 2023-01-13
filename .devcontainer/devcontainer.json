@@ -352,7 +352,13 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"eamodio.gitlens"
+				"eamodio.gitlens",
+				"vscjava.vscode-java-pack",
+				"ms-dotnettools.csharp",
+				"nvinayvarma189.log-booster",
+				"htwx.json-and-jsonc",
+				"huyza.dax-language",
+				"ms-dotnettools.dotnet-interactive-vscode"
 			]
 		}
 	}
